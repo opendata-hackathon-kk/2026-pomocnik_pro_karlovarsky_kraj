@@ -1,11 +1,12 @@
-# KRAJ-TERM – Karlovarský kraj v datech
+# Pomocník pro Karlovarský kraj
 
 > Kam na střední? Kam vyrazit? Kde by se mi dobře žilo? Kam s tím na úřad?
 
 Webová aplikace nad **otevřenými daty Karlovarského kraje a státních úřadů**. Vzniklo na
 **Hackathonu otevřených dat Karlovarského kraje 2026** (Cheb, 9.–10. 10. 2026).
 
-- Živá verze: https://s-pistora.github.io/tweaker234/
+- Repozitář: https://github.com/s-pistora/pomocnik_pro_karlovarsky_kraj
+- Živá verze (po zapnutí GitHub Pages): https://s-pistora.github.io/pomocnik_pro_karlovarsky_kraj/
 - Jde o prototyp, ne o oficiální službu Karlovarského kraje ani jiného úřadu.
 
 ---
@@ -16,8 +17,8 @@ Potřebujete **Node.js 20 nebo novější** (https://nodejs.org) a **git**.
 
 ```bash
 # 1. stáhnout projekt
-git clone https://github.com/s-pistora/tweaker234.git
-cd tweaker234
+git clone https://github.com/s-pistora/pomocnik_pro_karlovarsky_kraj.git
+cd pomocnik_pro_karlovarsky_kraj
 
 # 2. nainstalovat závislosti (jen poprvé)
 npm install
