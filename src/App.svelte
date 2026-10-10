@@ -1062,7 +1062,7 @@
       <a
         class="brandmark"
         href="#/kraj?m=domu"
-        aria-label="Otevřená data Karlovarského kraje – úvodní stránka"
+        aria-label="Pomocník pro Karlovarský kraj – úvodní stránka"
         onclick={(e) => {
           e.preventDefault();
           menu?.zavri();
@@ -1071,7 +1071,7 @@
         data-testid="brand-home"
       >
         <span class="brandmark__bar" aria-hidden="true"></span>
-        <span class="brandmark__txt">Otevřená data<br /><strong>Karlovarského kraje</strong></span>
+        <span class="brandmark__txt">Pomocník pro<br /><strong>Karlovarský kraj</strong></span>
       </a>
       <HlavniMenu
         bind:this={menu}

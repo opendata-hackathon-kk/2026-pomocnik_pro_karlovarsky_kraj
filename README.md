@@ -167,11 +167,11 @@ testy a web se publikuje na GitHub Pages.
 
 | jméno | role |
 |---|---|
-| TODO | |
-| TODO | |
-| TODO | |
-| TODO | |
-| TODO | |
+| Štěpán | leader, programátor |
+| René | programátor |
+| Jonáš | programátor |
+| Simon | programátor |
+| William | programátor |
 
 ## Licence
 

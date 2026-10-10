@@ -1,6 +1,6 @@
 {
-  "name": "Otevřená data Karlovarského kraje",
-  "short_name": "Kraj KV",
+  "name": "Pomocník pro Karlovarský kraj",
+  "short_name": "Pomocník KV",
   "description": "Střední školy, výlety, úřady, peníze kraje a kde se dobře žije – z otevřených dat Karlovarského kraje.",
   "lang": "cs",
   "start_url": "./#/kraj?m=domu",
